@@ -1,0 +1,25 @@
+Questions:
+
+How does MongoDB Atlas transform how developers build event-driven applications?
+
+Whats the best practice to reduce network utilization with MongoDB?
+
+
+Setup:
+- Start Atlas Cluster
+- Log into AWS
+- Copy Access keys
+- Run Ingestion job to sync docs in bucket with vectors in DB
+
+
+Steps:
+- Say Hi
+- Ask Events Question
+- Upload file
+- Start Ingestion job 
+- Ask Events Question again
+
+
+Note:
+- Delete object from bucket 
+- Run ingestion job
