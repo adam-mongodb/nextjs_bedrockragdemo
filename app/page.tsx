@@ -15,7 +15,7 @@ const HomePage = () => {
 
   return (
     <>
-      <h2 className="logo">Welcome to Bedrock RAG Demo</h2>
+      <h2 className="logo">PDF Search - Chatbot</h2>
       <div className="switch-card">
         <ChatbotBox />
         <div className='file-card'>

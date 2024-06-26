@@ -3,7 +3,7 @@
 @tailwind utilities; */
 
 :root {
-  --primary-color: #0070f3;
+  --primary-color: #00684A;
 }
 
 html,
@@ -55,7 +55,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #0047ab;
+  background-color: #00684A;
   color: #fff;
   padding: 1rem;
   border-bottom: 5px solid #fff;
